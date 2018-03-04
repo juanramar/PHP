@@ -1,1 +1,1 @@
-Esto es una prueba para ver como funciona
+En este repositorio iré subiendo aplicaciones creadas en PHP indicando el proceso seguido para crearlas.
